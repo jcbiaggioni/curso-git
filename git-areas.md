@@ -16,4 +16,8 @@ Area de Validacion de cambios, donde se registran las modificaciones
 realizadas dentro de nuestro proyecto.
 Realiza una captura del codigo al que se le este haciendo seguimiento
 
+REMOTE REPOSITORY:
+-----------------
+Servidor donde cargaremos nuestros commit para tener una copia de los cambios realizados
+
 
